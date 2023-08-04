@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-drawable",
+      "appliesTo": "Location/Location.Android/Resources/drawable/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-drawable",
+      "appliesTo": "Location/Location.Android/Resources/drawable/",
+      "type": "launch"
+    }
+  ]
+}

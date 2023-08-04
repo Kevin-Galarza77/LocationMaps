@@ -1,0 +1,30 @@
+C:\Users\Usuario\source\repos\Location\Location\Location\bin\Debug\netstandard2.0\Location.deps.json
+C:\Users\Usuario\source\repos\Location\Location\Location\bin\Debug\netstandard2.0\Location.dll
+C:\Users\Usuario\source\repos\Location\Location\Location\bin\Debug\netstandard2.0\ref\Location.dll
+C:\Users\Usuario\source\repos\Location\Location\Location\bin\Debug\netstandard2.0\Location.pdb
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\Location.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\Location.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\Location.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\Location.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\Location.dll
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\refint\Location.dll
+C:\Users\Usuario\source\repos\Location\Location\Location\obj\Debug\netstandard2.0\Location.pdb
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\bin\Debug\netstandard2.0\Location.deps.json
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\bin\Debug\netstandard2.0\Location.dll
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\bin\Debug\netstandard2.0\ref\Location.dll
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\bin\Debug\netstandard2.0\Location.pdb
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\Location.csproj.AssemblyReference.cache
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\Location.AssemblyInfoInputs.cache
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\Location.AssemblyInfo.cs
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\Location.csproj.CoreCompileInputs.cache
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\Location.dll
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\refint\Location.dll
+C:\Users\APLICACIONES MOVILES\Desktop\maps\Location\Location\obj\Debug\netstandard2.0\Location.pdb

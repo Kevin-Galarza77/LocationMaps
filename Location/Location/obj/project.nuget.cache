@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDx3/zdv7XZYZfoIDUS/EcGJvzoZH5ToQHymroxPObBwgZaDVASHM1f3KXvuAcr4mg2wS2URPrNoulZdu4MCEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\APLICACIONES MOVILES\\Desktop\\maps\\Location\\Location\\Location.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.essentials\\1.7.7\\xamarin.essentials.1.7.7.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.forms.googlemaps\\5.0.0\\xamarin.forms.googlemaps.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
