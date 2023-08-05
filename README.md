@@ -1,6 +1,6 @@
 # App de Geolocalización 
 
-_Implementacon de una APP de Geocalización con Xamarin_
+_Implementación de una APP de Geocalización con Xamarin_
 
 ## Permisos 🚀
 
